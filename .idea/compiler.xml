@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="server-gateway" />
+        <module name="common-util" />
+        <module name="service-product-client" />
+        <module name="service-item-client" />
+        <module name="service-list" />
+        <module name="service-util" />
+        <module name="service-order" />
+        <module name="service-auth" />
+        <module name="service-payment-client" />
+        <module name="mq-demo" />
+        <module name="web-all" />
+        <module name="service-product" />
+        <module name="service-cart" />
+        <module name="service-user" />
+        <module name="service-list-client" />
+        <module name="service-seckill" />
+        <module name="model" />
+        <module name="service-cart-client" />
+        <module name="service-item" />
+        <module name="service-payment" />
+      </profile>
+    </annotationProcessing>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="common" options="" />
+      <module name="common-util" options="" />
+      <module name="es-demo" options="" />
+      <module name="model" options="" />
+      <module name="mq-demo" options="" />
+      <module name="server-gateway" options="" />
+      <module name="service" options="" />
+      <module name="service-auth" options="" />
+      <module name="service-cart" options="" />
+      <module name="service-cart-client" options="" />
+      <module name="service-client" options="" />
+      <module name="service-item" options="" />
+      <module name="service-item-client" options="" />
+      <module name="service-list" options="" />
+      <module name="service-list-client" options="" />
+      <module name="service-order" options="" />
+      <module name="service-payment" options="" />
+      <module name="service-payment-client" options="" />
+      <module name="service-product" options="" />
+      <module name="service-product-client" options="" />
+      <module name="service-seckill" options="" />
+      <module name="service-user" options="" />
+      <module name="service-util" options="" />
+      <module name="web" options="" />
+      <module name="web-all" options="" />
+    </option>
+  </component>
+</project>

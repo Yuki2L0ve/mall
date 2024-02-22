@@ -1,0 +1,9 @@
+server:
+  port: 18081
+spring:
+  rabbitmq:
+    host: 192.168.200.128
+    port: 5672
+    username: java0509
+    password: java0509
+    virtual-host: /java0509

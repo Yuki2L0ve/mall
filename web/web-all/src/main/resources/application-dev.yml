@@ -1,0 +1,29 @@
+server:
+  port: 8300
+spring:
+  thymeleaf:
+    mode: LEGACYHTML5
+    #编码 可不用配置
+    encoding: UTF-8
+    #开发配置为false,避免修改模板还要重启服务器
+    cache: false
+    #配置模板路径，默认是templates，可以不用配置
+    prefix: classpath:/templates/
+  cloud:
+    sentinel:
+      transport:
+        dashboard: 192.168.200.128:8858
+  jackson:
+    date-format: yyyy-MM-dd HH:mm:ss
+    time-zone: GMT+8
+feign:
+  sentinel:
+    enabled: true
+  client:
+    config:
+      default:
+        readTimeout: 30000
+        connectTimeout: 10000
+
+item:
+  url: http://item.java0509.com/
