@@ -1,0 +1,11 @@
+G:\others\workspace\idea\project\mall\gmall\service\service-auth\src\main\java\com\atguigu\gmall\oauth\config\UserDetailsServiceImpl.java
+G:\others\workspace\idea\project\mall\gmall\service\service-auth\src\main\java\com\atguigu\gmall\oauth\util\AuthToken.java
+G:\others\workspace\idea\project\mall\gmall\service\service-auth\src\main\java\com\atguigu\gmall\oauth\mapper\UserInfoMapper.java
+G:\others\workspace\idea\project\mall\gmall\service\service-auth\src\main\java\com\atguigu\gmall\oauth\OauthApplication.java
+G:\others\workspace\idea\project\mall\gmall\service\service-auth\src\main\java\com\atguigu\gmall\oauth\config\AuthorizationServerConfig.java
+G:\others\workspace\idea\project\mall\gmall\service\service-auth\src\main\java\com\atguigu\gmall\oauth\config\CustomUserAuthenticationConverter.java
+G:\others\workspace\idea\project\mall\gmall\service\service-auth\src\main\java\com\atguigu\gmall\oauth\service\impl\LoginServiceImpl.java
+G:\others\workspace\idea\project\mall\gmall\service\service-auth\src\main\java\com\atguigu\gmall\oauth\util\UserJwt.java
+G:\others\workspace\idea\project\mall\gmall\service\service-auth\src\main\java\com\atguigu\gmall\oauth\config\WebSecurityConfig.java
+G:\others\workspace\idea\project\mall\gmall\service\service-auth\src\main\java\com\atguigu\gmall\oauth\controller\LoginController.java
+G:\others\workspace\idea\project\mall\gmall\service\service-auth\src\main\java\com\atguigu\gmall\oauth\service\LoginService.java

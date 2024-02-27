@@ -20,12 +20,12 @@
   <!--规定是一个父工程-->
   <packaging>pom</packaging>
 
-  <groupId>com.example.mall</groupId>
-  <artifactId>mall</artifactId>
+  <groupId>com.atguigu.gmall</groupId>
+  <artifactId>gmall</artifactId>
   <version>1.0-SNAPSHOT</version>
 
 
-  <name>mall</name>
+  <name>gmall</name>
   <description>商城项目的父工程</description>
 
   <!--定义jar包的版本号-->
@@ -33,7 +33,7 @@
     <java.version>1.8</java.version>
     <cloud.version>Hoxton.RELEASE</cloud.version>
     <cloud.alibaba.version>0.2.2.RELEASE</cloud.alibaba.version>
-    <mall.version>1.0</mall.version>
+    <gmall.version>1.0</gmall.version>
     <mybatis-plus.version>3.0.5</mybatis-plus.version>
     <mysql.version>5.1.46</mysql.version>
     <swagger.version>2.7.0</swagger.version>

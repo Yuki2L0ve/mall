@@ -1,0 +1,5 @@
+com\atguigu\gmall\web\controller\ItemController.class
+com\atguigu\gmall\web\controller\IndexController.class
+com\atguigu\gmall\web\util\Page.class
+com\atguigu\gmall\web\WebApplication.class
+com\atguigu\gmall\web\controller\SearchController.class

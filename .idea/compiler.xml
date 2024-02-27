@@ -33,30 +33,30 @@
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="common" options="" />
-      <module name="common-util" options="" />
+      <module name="common-util" options="-parameters" />
       <module name="es-demo" options="" />
-      <module name="model" options="" />
-      <module name="mq-demo" options="" />
-      <module name="server-gateway" options="" />
+      <module name="model" options="-parameters" />
+      <module name="mq-demo" options="-parameters" />
+      <module name="server-gateway" options="-parameters" />
       <module name="service" options="" />
-      <module name="service-auth" options="" />
-      <module name="service-cart" options="" />
-      <module name="service-cart-client" options="" />
+      <module name="service-auth" options="-parameters" />
+      <module name="service-cart" options="-parameters" />
+      <module name="service-cart-client" options="-parameters" />
       <module name="service-client" options="" />
-      <module name="service-item" options="" />
-      <module name="service-item-client" options="" />
-      <module name="service-list" options="" />
-      <module name="service-list-client" options="" />
-      <module name="service-order" options="" />
-      <module name="service-payment" options="" />
-      <module name="service-payment-client" options="" />
-      <module name="service-product" options="" />
-      <module name="service-product-client" options="" />
-      <module name="service-seckill" options="" />
-      <module name="service-user" options="" />
-      <module name="service-util" options="" />
+      <module name="service-item" options="-parameters" />
+      <module name="service-item-client" options="-parameters" />
+      <module name="service-list" options="-parameters" />
+      <module name="service-list-client" options="-parameters" />
+      <module name="service-order" options="-parameters" />
+      <module name="service-payment" options="-parameters" />
+      <module name="service-payment-client" options="-parameters" />
+      <module name="service-product" options="-parameters" />
+      <module name="service-product-client" options="-parameters" />
+      <module name="service-seckill" options="-parameters" />
+      <module name="service-user" options="-parameters" />
+      <module name="service-util" options="-parameters" />
       <module name="web" options="" />
-      <module name="web-all" options="" />
+      <module name="web-all" options="-parameters" />
     </option>
   </component>
 </project>

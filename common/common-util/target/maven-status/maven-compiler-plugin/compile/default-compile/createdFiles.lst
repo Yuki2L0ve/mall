@@ -1,0 +1,7 @@
+com\atguigu\gmall\common\util\HttpClientUtil.class
+com\atguigu\gmall\common\util\AuthContextHolder.class
+com\atguigu\gmall\common\result\Result.class
+com\atguigu\gmall\common\util\IpUtil.class
+com\atguigu\gmall\common\execption\GmallException.class
+com\atguigu\gmall\common\result\ResultCodeEnum.class
+com\atguigu\gmall\common\util\MD5.class

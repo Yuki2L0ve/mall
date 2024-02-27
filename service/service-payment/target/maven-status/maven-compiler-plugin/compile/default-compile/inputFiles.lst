@@ -1,0 +1,10 @@
+G:\others\workspace\idea\project\mall\gmall\service\service-payment\src\main\java\com\atguigu\gmall\payment\service\impl\ZfbPayServiceImpl.java
+G:\others\workspace\idea\project\mall\gmall\service\service-payment\src\main\java\com\atguigu\gmall\payment\controller\ZfbPayController.java
+G:\others\workspace\idea\project\mall\gmall\service\service-payment\src\main\java\com\atguigu\gmall\payment\util\HttpClient.java
+G:\others\workspace\idea\project\mall\gmall\service\service-payment\src\main\java\com\atguigu\gmall\payment\service\WxPayService.java
+G:\others\workspace\idea\project\mall\gmall\service\service-payment\src\main\java\com\atguigu\gmall\payment\config\RabbitRetrunAndComfirmConfig.java
+G:\others\workspace\idea\project\mall\gmall\service\service-payment\src\main\java\com\atguigu\gmall\payment\service\ZfbPayService.java
+G:\others\workspace\idea\project\mall\gmall\service\service-payment\src\main\java\com\atguigu\gmall\payment\controller\WxPayController.java
+G:\others\workspace\idea\project\mall\gmall\service\service-payment\src\main\java\com\atguigu\gmall\payment\PaymentApplication.java
+G:\others\workspace\idea\project\mall\gmall\service\service-payment\src\main\java\com\atguigu\gmall\payment\service\impl\WxPayServiceImpl.java
+G:\others\workspace\idea\project\mall\gmall\service\service-payment\src\main\java\com\atguigu\gmall\payment\config\PaymentRabbitConfig.java

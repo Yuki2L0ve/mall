@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE mapper SYSTEM "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
-<mapper namespace="com.example.mall.product.mapper.BaseAttrInfoMapper">
+<mapper namespace="com.atguigu.gmall.product.mapper.BaseAttrInfoMapper">
     <!-- autoMapping自动映射数据库中表的列与java实体的关系,若不添加的话,实体嵌套时可能导致数据绑定失败-->
-    <resultMap id="baseAttrInfoMap" type="product.model.com.example.mall.BaseAttrInfo" autoMapping="true">
+    <resultMap id="baseAttrInfoMap" type="com.atguigu.gmall.model.product.BaseAttrInfo" autoMapping="true">
         <!--
-            column:数据库对应的列明
-            property:java中pojo对应的属性名
+            column：数据库对应的列名
+            property：java中pojo对应的属性名
         -->
         <id column="id" property="id"></id>
         <!--定义内嵌实体集合-->
-        <collection property="attrValueList" ofType="product.model.com.example.mall.BaseAttrValue" autoMapping="true">
+        <collection property="attrValueList" ofType="com.atguigu.gmall.model.product.BaseAttrValue" autoMapping="true">
             <!--防止id重复,将值的属性id进行重命名-->
             <id property="id" column="base_attr_value_id"></id>
         </collection>

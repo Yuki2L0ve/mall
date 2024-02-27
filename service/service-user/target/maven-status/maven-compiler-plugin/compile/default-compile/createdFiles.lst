@@ -1,0 +1,9 @@
+com\atguigu\gmall\user\UserApplication.class
+com\atguigu\gmall\user\mapper\UserAddressMapper.class
+com\atguigu\gmall\user\util\TokenUtil.class
+com\atguigu\gmall\user\service\UserAddressService.class
+com\atguigu\gmall\user\filter\UserFilter.class
+com\atguigu\gmall\user\config\GmallResourceServerConfig.class
+com\atguigu\gmall\user\service\impl\UserAddressServiceImpl.class
+com\atguigu\gmall\user\util\UserThreadLocalUtil.class
+com\atguigu\gmall\user\controller\UserAddressController.class

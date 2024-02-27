@@ -1,0 +1,11 @@
+com\atguigu\gmall\oauth\config\AuthorizationServerConfig.class
+com\atguigu\gmall\oauth\config\CustomUserAuthenticationConverter.class
+com\atguigu\gmall\oauth\config\UserDetailsServiceImpl.class
+com\atguigu\gmall\oauth\config\WebSecurityConfig.class
+com\atguigu\gmall\oauth\controller\LoginController.class
+com\atguigu\gmall\oauth\service\LoginService.class
+com\atguigu\gmall\oauth\OauthApplication.class
+com\atguigu\gmall\oauth\util\UserJwt.class
+com\atguigu\gmall\oauth\util\AuthToken.class
+com\atguigu\gmall\oauth\mapper\UserInfoMapper.class
+com\atguigu\gmall\oauth\service\impl\LoginServiceImpl.class

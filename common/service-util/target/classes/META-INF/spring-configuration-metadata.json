@@ -1,0 +1,62 @@
+{
+  "groups": [
+    {
+      "name": "spring.redis",
+      "type": "com.atguigu.gmall.common.config.RedissonConfig",
+      "sourceType": "com.atguigu.gmall.common.config.RedissonConfig"
+    }
+  ],
+  "properties": [
+    {
+      "name": "spring.redis.a-d-d-r-e-s-s-p-r-e-f-i-x",
+      "type": "java.lang.String",
+      "sourceType": "com.atguigu.gmall.common.config.RedissonConfig",
+      "defaultValue": "redis:\/\/"
+    },
+    {
+      "name": "spring.redis.addresses",
+      "type": "java.lang.String",
+      "sourceType": "com.atguigu.gmall.common.config.RedissonConfig"
+    },
+    {
+      "name": "spring.redis.connection-minimum-idle-size",
+      "type": "java.lang.Integer",
+      "sourceType": "com.atguigu.gmall.common.config.RedissonConfig",
+      "defaultValue": 10
+    },
+    {
+      "name": "spring.redis.connection-pool-size",
+      "type": "java.lang.Integer",
+      "sourceType": "com.atguigu.gmall.common.config.RedissonConfig",
+      "defaultValue": 64
+    },
+    {
+      "name": "spring.redis.host",
+      "type": "java.lang.String",
+      "sourceType": "com.atguigu.gmall.common.config.RedissonConfig"
+    },
+    {
+      "name": "spring.redis.password",
+      "type": "java.lang.String",
+      "sourceType": "com.atguigu.gmall.common.config.RedissonConfig"
+    },
+    {
+      "name": "spring.redis.ping-connection-interval",
+      "type": "java.lang.Integer",
+      "sourceType": "com.atguigu.gmall.common.config.RedissonConfig",
+      "defaultValue": 60000
+    },
+    {
+      "name": "spring.redis.port",
+      "type": "java.lang.String",
+      "sourceType": "com.atguigu.gmall.common.config.RedissonConfig"
+    },
+    {
+      "name": "spring.redis.timeout",
+      "type": "java.lang.Integer",
+      "sourceType": "com.atguigu.gmall.common.config.RedissonConfig",
+      "defaultValue": 3000
+    }
+  ],
+  "hints": []
+}
